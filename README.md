@@ -1,2 +1,3 @@
 # Professional-statement
 1st step
+I am TOMIN JACOB, a dedicated BTECH student with a strong passion for cybersecurity. I possess excellent problem-solving and decision-making skills, along with exceptional time management and interpersonal abilities. Proficient in Python, SQL, and Linux OS, I am well-equipped to protect organizations and individuals from cyber threats while ensuring compliance with laws and promoting equitable access. My career objective is to secure a challenging position in the cybersecurity field where I can utilize my skills and knowledge to contribute to the safety and security of digital systems.
